@@ -1,5 +1,5 @@
 <h1>
-<img src="https://raw.githubusercontent.com/Sunwood-ai-labs/PenChatter/main/Assets/Chatter4.png" height=120px align="right"/>
+<img src="https://raw.githubusercontent.com/Sunwood-ai-labs/PenChatter/main/Assets/Chatter5.png" height=300px align="right"/>
 PenChatter
 </h1>
 
