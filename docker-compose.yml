@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  pen-chatter:
+    build: .
+    volumes:
+      - .:/PenChatter
+    working_dir: /PenChatter
+    env_file:
+      - .env
+    ports:
+      - "8501:8501"
+    tty: true
+
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [ gpu ]
