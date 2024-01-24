@@ -1,0 +1,3 @@
+whisper
+pyannote.audio
+streamlit
