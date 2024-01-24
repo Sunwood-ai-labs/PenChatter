@@ -155,3 +155,4 @@ outputs/
 Assets/.locks/
 Assets/models--Systran--faster-whisper-large-v3/
 Assets/tmp*
+tmp/
